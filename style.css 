@@ -1,0 +1,14 @@
+body{
+    margin-top: 10px;
+margin-bottom: 10px;
+background-color: orange;
+padding: 20px;
+width: 100;
+
+}
+#button{
+background-color: blue;
+color: white;
+
+
+}
